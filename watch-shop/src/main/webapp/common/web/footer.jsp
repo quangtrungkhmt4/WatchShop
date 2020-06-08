@@ -1,4 +1,5 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<%@include file="/common/taglib.jsp" %>
 <footer>
     <!-- Footer Start-->
     <div class="footer-area footer-padding">
@@ -39,8 +40,8 @@
                             <ul>
                                 <li><a href="#">Woman Cloth</a></li>
                                 <li><a href="#">Fashion Accessories</a></li>
-                                <li><a href="#"> Man Accessories</a></li>
-                                <li><a href="#"> Rubber made Toys</a></li>
+                                <li><a href="#">Man Accessories</a></li>
+                                <li><a href="#">Rubber made Toys</a></li>
                             </ul>
                         </div>
                     </div>
